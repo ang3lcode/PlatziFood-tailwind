@@ -8,7 +8,8 @@ module.exports = {
         'secondary': '#353535'
         },
         height:{
-          '80':'20rem'
+          '80':'20rem',
+          '100': '30rem'
         }
     },
   },
